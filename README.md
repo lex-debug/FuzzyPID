@@ -17,6 +17,7 @@ The aim of the project is to realize the position control on a single hydraulic 
 
 ### Electronics
 - Raspberry Pi Pico
+[Rasberry Pi Pico Image](https://static.cytron.io/image/cache/catalog/products/V-RPI-PICO/V-RPI-PICO_d-800x800.jpg)
 - Double Channel Relay
 - UART Cable
 - 12V Battery x2

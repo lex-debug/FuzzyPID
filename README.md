@@ -6,6 +6,7 @@ The aim of the project is to realize the position control on a single hydraulic 
 
 - [Software](#software)
 - [Hardware](#hardware)
+- [Reference](#reference)
 
 ## Software
 
@@ -38,3 +39,16 @@ LiPo Battery
 - A double acting hydraulic cylinder
 - A hydraulic power pack (consists of a pump, AC motor, and tank)
 - A solenoid valve
+
+## How to run the simulation
+
+1. Open the MATLAB
+2. Open the file SugenoFuzzyPIDModel.m. Click Run. After finished running, you will see the following graphs.
+![Graphs of Fuzzy PID](https://github.com/lex-debug/FuzzyPID/blob/main/img/Screenshot%202023-09-01%20142402.png)
+3. Open the Simulink
+4. Open the model hydralic_system_model_with_fuzzy_pid.slx. You will see the following model.
+![Simulink Model Image](https://github.com/lex-debug/FuzzyPID/blob/main/img/Screenshot%202023-09-01%20142451.png)
+5. If there is no any error (red border around each block), you can proceed to click Run.
+6. You can observe the result by clicking each scope. There are scope which visulaize the position, the velocity of the cylinder, the pressure of the channel A and source of the valve and so on.
+
+## Reference

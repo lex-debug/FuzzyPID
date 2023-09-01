@@ -17,10 +17,20 @@ The aim of the project is to realize the position control on a single hydraulic 
 
 ### Electronics
 - Raspberry Pi Pico
-[Rasberry Pi Pico Image](https://static.cytron.io/image/cache/catalog/products/V-RPI-PICO/V-RPI-PICO_d-800x800.jpg)
+[Rasberry Pi Pico Image](https://github.com/lex-debug/FuzzyPID/blob/main/img/V-RPI-PICO_d-800x800.jpg)
 - Double Channel Relay
+[Relay Image](https://github.com/lex-debug/FuzzyPID/blob/main/img/2nhUX1bL1629401083-1444x1444.jpg)
 - UART Cable
+[UART Cable Image](https://github.com/lex-debug/FuzzyPID/blob/main/img/ed425db5315c558064073b7a91e71bc2.jpg)
 - 12V Battery x2
+
+You can use either lead acid battery or lipo battery but be extra careful when handling with battery
+
+Lead Acid Battery
+[Lead Acid Battery Image](https://github.com/lex-debug/FuzzyPID/blob/main/img/images.jpg)
+
+LiPo Battery
+[LiPo Battery Image](https://github.com/lex-debug/FuzzyPID/blob/main/img/78448c337bce01db00d5d8527dade7a8.jpg)
 
 ### Hydraulic
 - A double acting hydraulic cylinder

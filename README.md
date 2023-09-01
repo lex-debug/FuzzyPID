@@ -27,9 +27,11 @@ The aim of the project is to realize the position control on a single hydraulic 
 You can use either lead acid battery or lipo battery but be extra careful when handling with battery
 
 Lead Acid Battery
+
 ![Lead Acid Battery Image](https://github.com/lex-debug/FuzzyPID/blob/main/img/images.jpg)
 
 LiPo Battery
+
 ![LiPo Battery Image](https://github.com/lex-debug/FuzzyPID/blob/main/img/78448c337bce01db00d5d8527dade7a8.jpg)
 
 ### Hydraulic
